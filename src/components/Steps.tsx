@@ -1,5 +1,5 @@
 import { StepsForm } from './StepsForm'
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { IStepsData } from '../model'
 import { stepsData } from '../data/StepsData'
 
